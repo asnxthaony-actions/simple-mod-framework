@@ -25,7 +25,7 @@ const gameHashes = {
 	"7eaa9f2bdf76bc036c81e998b69bbb93": Platform.epic, // ansel unlock
 	"fa3d5796b4a7575c4c58c7dd0dacec6c": Platform.epic, // ansel no collision
 	"e03149348c752bba1e73175310d4ae76": Platform.epic, // ansel unlock + no collision
-	"b3ba5ecbf9c2b677f2a1c5cd0f01b907": Platform.steam, // base game
+	"20051caae42f6079bc1e397fbed4dda0": Platform.steam, // base game
 	"b71da06044f81a81c40874cb9adc3dbe": Platform.steam, // ansel unlock
 	"28607baf7a75271b6924fe0d52263600": Platform.steam, // ansel no collision
 	"d028074b654cb628ef88ced7b5d3eb96": Platform.steam, // ansel unlock + no collision
